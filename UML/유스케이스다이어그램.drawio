@@ -1,1 +1,118 @@
-<mxfile host="app.diagrams.net" modified="2021-12-29T16:49:12.209Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="J7P9UPHi40c_qJ40IzEh" version="16.1.0" type="github" pages="2"><diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">3VhRW5swFP01eZwfEKDkEdqq29w+N+e6PUZISzRtujS17X79EgilEDa1aqc+NTkJF+45h3tDAexP1ycCz/NPPCMMeE62BnAAPM91YKR+NLIpkaCHSmAiaGY21cAF/U2qKw26pBlZNDZKzpmk8yaY8tmMpLKBYSH4qrltzFnzrnM8IRZwkWJmoyOaybxEI69X46eETvLqzm5o8pviarPJZJHjjK92IDgEsC84l+Vouu4TpsmreBm934zY2U148uHL4he+TD5++/z9XRns+CGXbFMQZCb3Do2/no5uP22upvRyHY6uj0/cswtziXOL2dLwZXKVm4rAXE6ZGrkAJmPKWJ8zLooVOB6PvTRV+EIKfkN2VrLwKgxCtWLCEyHJuqXHHcm4W4aVNQmfEik26roqSiWKcaUbmfmq1jiosHxHX+gbEBtfTbaxa+7UwND3ACpdm8phDBIPJA4Y9kHsANS3yFVx1YugJskqp5JczHGqV1bqXVTYi6Tec5rUeyiwqHfdDuqDZ2Me2bxmqgiYKRcy5xM+w2xYo4ngy1lGdFhHzeo9Z5zPDefXRMqNqWh4KXlTkfKe+kZ7sKseli9FSv6RlXkTJRYTIu/yna2WIAxLett8uCen3us2PdR21wNl+oEljiqkcz1cTlmcSm3cRNuUqqJ9hq8IO+cLKimfqS1XXEo+3dkQMzrRC5LPu+R4erv7bbfbhQZ2mD18LrN7XXWmDxIEEh8ME4CgrjMKiWINqoFSIIkKJKmXYrV5AKKgqyi9Kn16bYEiuxwdVqCud6IgPy4aAVLko27J4h5QPUshSQii6C00C/8er8+2lx9Gnt6DjjxtX28NT2ZZrI+nGmM8vbFaCllT+UOPjwIz+9mYDdY7Gwebnck5EVQlS4TBnr3TVOfyu1pNSZUt9o6Y1Znr3u3HRDvnVOVS+6Z1vvOdlh/KpMxVu6feVqDAuSNQmbQVqPDWNsX97QY7yvUj7cbnZGa5LcOLvJi45eZjqp/z8fY5iNitIgErjh4qNnSdI8eByO05PoyQG7XCukfI9X3oIYRciGB4WCf85azkm5ofhyAuugAagqpKvtam3BJ0K/D/6sl+F/eJ7rf6HNTX/dZ0YHVgDYp2XXy3vYEO3P5c69LisJ9rPrR5feGfa4/4vOquVL2WKCE6CvareZa+dqi9C5ua1n9vldvrPwnh8A8=</diagram><diagram id="rPwC5HnoijPhUJ-sqOVX" name="Page-2">lZE9D4IwEIZ/TUcToFFwRhQHTJRB1koLbSwcqTWiv15IQWxYdOr1yXsf7x3CYdXuFGl4ApRJ5Dm0RXiDPM91cNA9PXkasvTXBpRK0EE0gVS82Jg50Lug7GYJNYDUorFhDnXNcm0xohQ8bFkB0u7akJLNQJoTOadnQTU3NPD8icdMlHzs7K4GfxUZxYOTGycUHl8IRwiHCkCbqGpDJvvljXs5ZYc430fXk1sk3I+Px+yCF6bY9p+UjwXFav1r6S6YRus+1oFx9AY=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-12-29T16:49:56.575Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="WrgCarlYKFex7--zyzTn" version="16.1.0" type="github" pages="4">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="aRHWvMybmiUx6WjFG1LS-0" value="" style="html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="120" y="180" width="580" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="aRHWvMybmiUx6WjFG1LS-1" value="결제" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="200" y="295" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aRHWvMybmiUx6WjFG1LS-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aRHWvMybmiUx6WjFG1LS-2" target="aRHWvMybmiUx6WjFG1LS-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aRHWvMybmiUx6WjFG1LS-2" value="고객" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="40" y="290" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aRHWvMybmiUx6WjFG1LS-21" value="카드승인시스템" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="740" y="285" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aRHWvMybmiUx6WjFG1LS-22" value="신용카드지불" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="440" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aRHWvMybmiUx6WjFG1LS-27" value="" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aRHWvMybmiUx6WjFG1LS-21" target="aRHWvMybmiUx6WjFG1LS-22" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="420" y="400" as="sourcePoint" />
+            <mxPoint x="500" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aRHWvMybmiUx6WjFG1LS-31" value="" style="html=1;verticalAlign=bottom;endArrow=open;rounded=0;dashed=1;endFill=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="440" y="322" as="sourcePoint" />
+            <mxPoint x="310.0039170438918" y="321.91443299913936" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aRHWvMybmiUx6WjFG1LS-32" value="관리자" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="40" y="440" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aRHWvMybmiUx6WjFG1LS-42" value="매출정산" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="200" y="440" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aRHWvMybmiUx6WjFG1LS-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="70" y="469.5" as="sourcePoint" />
+            <mxPoint x="200" y="469.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="rPwC5HnoijPhUJ-sqOVX" name="Page-2">
+    <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="RXNHcIEkR1fMh7HQQXb3-0" />
+        <mxCell id="RXNHcIEkR1fMh7HQQXb3-1" parent="RXNHcIEkR1fMh7HQQXb3-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Page-1" id="UiIGnHidZXM71j15FvYv">
+    <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="aRHWvMybmiUx6WjFG1LS-0" value="" style="html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="120" y="180" width="580" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="aRHWvMybmiUx6WjFG1LS-1" value="결제" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="200" y="295" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aRHWvMybmiUx6WjFG1LS-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aRHWvMybmiUx6WjFG1LS-2" target="aRHWvMybmiUx6WjFG1LS-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aRHWvMybmiUx6WjFG1LS-2" value="고객" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="40" y="290" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aRHWvMybmiUx6WjFG1LS-21" value="카드승인시스템" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="740" y="285" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aRHWvMybmiUx6WjFG1LS-22" value="신용카드지불" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="440" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aRHWvMybmiUx6WjFG1LS-27" value="" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aRHWvMybmiUx6WjFG1LS-21" target="aRHWvMybmiUx6WjFG1LS-22">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="420" y="400" as="sourcePoint" />
+            <mxPoint x="500" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aRHWvMybmiUx6WjFG1LS-31" value="" style="html=1;verticalAlign=bottom;endArrow=open;rounded=0;dashed=1;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="440" y="322" as="sourcePoint" />
+            <mxPoint x="310.0039170438918" y="321.91443299913936" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aRHWvMybmiUx6WjFG1LS-32" value="관리자" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="40" y="440" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aRHWvMybmiUx6WjFG1LS-42" value="매출정산" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="200" y="440" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aRHWvMybmiUx6WjFG1LS-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="70" y="469.5" as="sourcePoint" />
+            <mxPoint x="200" y="469.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Page-2" id="gGyI3emuTOtrzRmbdy4l">
+    <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="RXNHcIEkR1fMh7HQQXb3-0" />
+        <mxCell id="RXNHcIEkR1fMh7HQQXb3-1" parent="RXNHcIEkR1fMh7HQQXb3-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
