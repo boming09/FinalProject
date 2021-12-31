@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-30T11:12:49.944Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="-LfvM9mpG4WXMkLU5xjv" version="16.1.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-12-31T08:42:44.383Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="RGYTYf3Qk6RjeEL_QBPq" version="16.1.2" type="github" pages="3">
   <diagram id="6xw7zlPZ4nUjDdWjGaKB" name="Class">
-    <mxGraphModel dx="14220" dy="9388" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="2917" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2315,19 +2315,19 @@
             <mxPoint x="6020" y="2705.79" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="m9T_pVM_OiW53VpAL0yY-1" value="김보미" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=50;" vertex="1" parent="1">
+        <mxCell id="m9T_pVM_OiW53VpAL0yY-1" value="김보미" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=50;" parent="1" vertex="1">
           <mxGeometry x="3186.2" y="-1690" width="210" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="m9T_pVM_OiW53VpAL0yY-2" value="김광중" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=50;" vertex="1" parent="1">
+        <mxCell id="m9T_pVM_OiW53VpAL0yY-2" value="김광중" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=50;" parent="1" vertex="1">
           <mxGeometry x="5940" y="-1690" width="210" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="m9T_pVM_OiW53VpAL0yY-3" value="정온화" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=50;" vertex="1" parent="1">
+        <mxCell id="m9T_pVM_OiW53VpAL0yY-3" value="정온화" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=50;" parent="1" vertex="1">
           <mxGeometry x="5950" y="2010" width="210" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="m9T_pVM_OiW53VpAL0yY-4" value="김민주" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=50;" vertex="1" parent="1">
+        <mxCell id="m9T_pVM_OiW53VpAL0yY-4" value="김민주" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=50;" parent="1" vertex="1">
           <mxGeometry x="3760" y="2060" width="210" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="m9T_pVM_OiW53VpAL0yY-5" value="추현정" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=50;" vertex="1" parent="1">
+        <mxCell id="m9T_pVM_OiW53VpAL0yY-5" value="추현정" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=50;" parent="1" vertex="1">
           <mxGeometry x="1290" y="1220" width="210" height="30" as="geometry" />
         </mxCell>
       </root>
